@@ -1,2 +1,2 @@
 # Curriculum-Vitae
-Trabajo Integrador Final
+Entrega del Trabajo Integrador Final, realizada por el alumno: Burgos Salvadeo Luka Edgardo.
